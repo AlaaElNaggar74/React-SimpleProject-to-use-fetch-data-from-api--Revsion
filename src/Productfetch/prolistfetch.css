@@ -1,0 +1,27 @@
+
+
+.sinpro img{
+  width: 100%;
+  height: 300px;
+  
+}
+
+.pd{
+  height: 75vh;
+}
+
+.detailsx img{
+  height: 300px;
+width: 100%;
+}
+.detailsx {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 90vh;
+
+}
+.detailsx .card{
+  width: 50%;
+  
+  }
