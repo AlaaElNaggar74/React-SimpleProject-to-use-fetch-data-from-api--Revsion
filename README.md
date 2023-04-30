@@ -1,3 +1,10 @@
+
+Simple app as introduction to fetch data from api and use react router with browserrouter and use pararm and git category from api and filtter data using it 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
